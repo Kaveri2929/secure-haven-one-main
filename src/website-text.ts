@@ -5,7 +5,7 @@ export const OFFICE_HOURS_OPERATION = "Mon-Sun 7AM-10PM";
 export const OFFICE_ADDRESS = "797 De La Seigneurie Blvd Winnipeg, Manitoba, R3X0T1";
 
 // Header/Logo Text
-export const COMPANY_NAME = "Financial Services";
+export const COMPANY_NAME = "Pro$perity";
 export const COMPANY_TAGLINE = "Professional Insurance & Investment Solutions";
 
 // Hero Section
