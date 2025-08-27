@@ -9,7 +9,7 @@ export const COMPANY_NAME = "Pro$perity";
 export const COMPANY_TAGLINE = "Professional Insurance & Investment Solutions";
 
 // Hero Section
-export const HERO_TITLE = "Secure Your Future with Professional Financial Planning";
+export const HERO_TITLE = "Secure Your Future with Professional Financial Planning Services";
 export const HERO_DESCRIPTION = "Comprehensive insurance coverage, investment solutions, and financial planning services tailored to protect and grow your wealth.";
 export const FEATURE_1_TEXT = "Licensed & Registered";
 export const FEATURE_2_TEXT = "Growth Focused";
