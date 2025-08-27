@@ -1,4 +1,4 @@
-export const PHONE_NUMBER = "(555) 123-4567";
+export const PHONE_NUMBER = "(204) 250-4751";
 export const EMAIL_ADDRESS = "";
 export const PHONE_HOURS_OPERATION = "Mon-Fri 9AM-6PM";
 export const OFFICE_HOURS_OPERATION = "Mon-Fri 9AM-6PM";
