@@ -1,8 +1,8 @@
 export const PHONE_NUMBER = "(204) 250-4751";
 export const EMAIL_ADDRESS = "kaverisajan.jan16@gmail.com";
-export const PHONE_HOURS_OPERATION = "Mon-Fri 9AM-6PM";
-export const OFFICE_HOURS_OPERATION = "Mon-Fri 9AM-6PM";
-export const OFFICE_ADDRESS = "Downtown Financial District";
+export const PHONE_HOURS_OPERATION = "Mon-Sun 7AM-10PM";
+export const OFFICE_HOURS_OPERATION = "Mon-Sun 7AM-10PM";
+export const OFFICE_ADDRESS = "797 De La Seigneurie Blvd Winnipeg, Manitoba, R3X0T1";
 
 // Header/Logo Text
 export const COMPANY_NAME = "Financial Services";
