@@ -37,13 +37,13 @@ export const Hero = () => {
             </div>
 
           </div>
-          
+
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-[var(--shadow-elegant)]">
               <img
                   src="/main_picture.jpg"
                   alt="Professional financial services office"
-                  className="w-full h-[500px] object-cover"
+                  className="w-full aspect-[1181/531] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent" />
             </div>
